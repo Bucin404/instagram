@@ -1,3 +1,4 @@
-cd /mnt/d/instagram
+cd
 clear
-python3 create.py
+cd instagram
+python create.py
